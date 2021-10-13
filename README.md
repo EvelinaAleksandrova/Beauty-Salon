@@ -1,8 +1,9 @@
 # Beauty-Salon
 
-# University project.
+University project.
  
-# DEMO - https://evelinaaleksandrova.github.io/
+# DEMO 
+https://evelinaaleksandrova.github.io/
 
 # Technologies:
 - HTML
