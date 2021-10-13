@@ -1,4 +1,4 @@
-# Beauty-Salon
+# Beauty Salon Page
 
 University project.
  
