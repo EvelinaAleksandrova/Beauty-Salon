@@ -1,6 +1,7 @@
 # Beauty Salon Page
 
-University project.
+Beauty Salon page contains information for procedures, reviews from
+customers and contact form.
  
 # DEMO 
 https://evelinaaleksandrova.github.io/
